@@ -6,10 +6,10 @@ _Feliz de que visites mi perfil_
 
 
 - 🌱 Estudiante del Instituto Tecnologico de Tijuana
-- 🤔 Sexto semestre en la Ingenieria en Sistemas Computacionales
+- 🤔 Sexto semestre en la Ingenieria de Sistemas Computacionales
 - 📫 Correo: ZazuetaDiana301@gmail.com
 - 😄 Bachillerato con informática.
-- ⚡ 
+- ⚡ Me encantan los retos y desafios.
 
 ![](https://images.cooltext.com/5466593.png)
 
