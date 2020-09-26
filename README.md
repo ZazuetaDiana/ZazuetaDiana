@@ -13,9 +13,10 @@ ___
 - 😄 Bachillerato con informática.
 - ⚡ Me encantan los retos y desafios.
 
-![](https://images.cooltext.com/5466593.png)
+![](https://images.cooltext.com/5466679.png)
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
 
 |      Hora     |      Docente      |              Materia              | Lunes | Martes | Miercoles | Jueves | Viernes |
 |:-------------:|:-----------------:|:---------------------------------:|:-----:|:------:|:---------:|:------:|:-------:|
