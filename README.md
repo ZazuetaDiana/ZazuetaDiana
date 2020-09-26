@@ -1,5 +1,10 @@
 ### Hi there 👋
-### Feliz de que visites  mi perfil ♥
+_Feliz de que visites mi perfil_
+👩🏻 ‍ 💻 
+
+❤
+
+
 - 🌱 Estudiante del Instituto Tecnologico de Tijuana
 - 🤔 Sexto semestre en la Ingenieria en Sistemas Computacionales
 - 📫 Correo: ZazuetaDiana301@gmail.com
