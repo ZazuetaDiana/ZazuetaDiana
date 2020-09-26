@@ -1,9 +1,9 @@
 ### Hi there 👋
-_Feliz de que visites mi perfil_
+***Feliz de que visites mi perfil***
+
 👩🏻 ‍ 💻 
-
 ❤
-
+___
 
 - 🌱 Estudiante del Instituto Tecnologico de Tijuana
 - 🤔 Sexto semestre en la Ingenieria de Sistemas Computacionales
