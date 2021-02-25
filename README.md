@@ -16,7 +16,6 @@ ___
 - 😄 Bachillerato con informática.
 - ⚡ Me encantan los retos y desafios.
 
-
 |Horario|Materia|Lunes|Martes|Miercoles|Jueves|Viernes|Sabado|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |10:00am|Ingles|---|---|---|---|---|si|
