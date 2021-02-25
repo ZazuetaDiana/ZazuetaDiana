@@ -17,6 +17,15 @@ ___
 - ⚡ Me encantan los retos y desafios.
 
 
+|Horario|Materia|Lunes|Martes|Miercoles|Jueves|Viernes|Sabado|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+|10:00am|Ingles|---|---|---|---|---|si|
+|2:00pm|Gestion de proyectos de software|si|si|si|si|si|---|
+|3:00pm|Inteligencia Artificial|si|si|si|si|si|---|
+|4:00pm|Sistemas Programables|si|si|si|si|---|---|
+|5:00pm|Lenguajes y Automatas II|si|si|si|si|si|---|
+|6:00pm|Redes de computadoras|si|si|si|si|si|---|
+|7:00pm|Analisis Avanzado de software|si|si|si|si|si|---|
 
 
 
