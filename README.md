@@ -10,8 +10,7 @@
 
 ___
 
-- 🌱 Estudiante del Instituto Tecnologico de Tijuana
-- 🤔 Noveno semestre en la Ingenieria de Sistemas Computacionales
+- 🤔 Ingeniera en Sistemas Computacionales
 - 📫 Correo: ZazuetaDiana301@gmail.com
 - 😄 Bachillerato con informática.
 - ⚡ Me encantan los retos y desafios.
